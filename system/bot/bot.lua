@@ -239,7 +239,7 @@ function create_config( )
     "tosticker",
     "language"
     },
-    sudo_users = {111984481},--Sudo users
+    sudo_users = {189308877},--Sudo users
     support_gp = {111111111},--Support id
     moderation = {data = 'system/data/adv.json'},
   }
